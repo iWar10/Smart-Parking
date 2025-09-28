@@ -32,7 +32,7 @@ Pentru a rula aplicația local, este necesar să configurezi Firebase și să ad
 * În fișierul AndroidManifest.xml, caută locul unde apare placeholder-ul "cheieapi" și înlocuiește-l cu cheia ta reală.
     android:name="com.google.android.geo.API_KEY"
     android:value="cheieapi"
-    
+
 2.Obține fișierul google-services.json din consola Firebase.
 
 * Pune fișierul descărcat în directorul app/.
