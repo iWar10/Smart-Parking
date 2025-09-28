@@ -25,7 +25,7 @@ Smart Parking este o aplicație Android fictivă, aflată în stadiu de dezvolta
 Proiectul este într-o fază incipientă, cu funcționalități de bază implementate. Aplicația nu are scop comercial și nu folosește plăți reale, ci doar simulează un flux complet de rezervare și gestionare a fondurilor. Etapele viitoare ar putea include notificări push, istoricul rezervărilor și integrarea unui sistem de plăți reale.
 Configurare Firebase și API Key
 
-Pentru a rula aplicația local, este necesar să configurezi Firebase și să adaugi cheia API.
+## Pentru a rula aplicația local, este necesar să configurezi Firebase și să adaugi cheia API.
 
 1. Obține cheia API din consola Firebase.
 
